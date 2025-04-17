@@ -16,6 +16,14 @@ Tools & Libraries
 	•	SQLite3
 	•	pandas
 	•	matplotlib
+ 
+Revenue Visualization
+The chart below represents total revenue by product, calculated from randomly generated sales data:
+![image](https://github.com/user-attachments/assets/fb6ccf76-c1f7-4849-b889-02f0200809a0)
+This bar chart helps quickly identify which products contributed the most to overall revenue. It’s a simple yet powerful way to present sales performance at a glance.
+
+
+
 
 Key Highlights
 	•	Dynamic table creation and data insertion using Python.
